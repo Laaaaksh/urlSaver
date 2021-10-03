@@ -1,0 +1,25 @@
+body{
+    margin : 0;
+    padding : 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    background: #469e13;
+    font-weight: bold;
+    border: none;
+    padding : 7px 20px 7px 20px;
+    color: white;
+    border-radius: 2px;
+    margin-top: 5px;
+}
+input{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box; 
+    height: 35px;
+    color: black;
+    font-style: italic;
+    font-size: 15px;
+    /* the above makes the input box appear in the browser */
+}
