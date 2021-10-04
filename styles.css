@@ -23,3 +23,6 @@ input{
     font-size: 15px;
     /* the above makes the input box appear in the browser */
 }
+p{
+    color: black;
+}
