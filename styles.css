@@ -3,11 +3,12 @@ body{
     padding : 10px;
     font-family: Arial, Helvetica, sans-serif;
     min-width: 400px;
+    min-height: 400px;
 }
 button{
     background: #469e13;
     font-weight: bold;
-    border: none;
+    border: 1px solid #469e13;
     padding : 7px 20px 7px 20px;
     color: white;
     border-radius: 2px;
@@ -38,4 +39,8 @@ li{
 li a{
     color: #469e13;
     font-weight: bold;
+}
+#delete-al{
+background: white;
+color: #469e13;
 }
